@@ -14,3 +14,4 @@ console.log(d1)
 
 let d2= new Device("mobile", 20000, "electronics")
 console.log(d2)
+ 
